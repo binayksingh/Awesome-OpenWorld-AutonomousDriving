@@ -1,5 +1,5 @@
 # Awesome-OpenWorld-AutonomousDriving
-The official repository for "From Closed-Set to Open-Vocabulary: A Comprehensive Survey on Real-Time Open-World Object Detection in Autonomous Driving". Curated by Binay Kumar Singh (UCF).
+The official repository for "From Closed-Set to Open-Vocabulary: A Comprehensive Survey on Real-Time Open-World Object Detection in Autonomous Driving". Curated by Binay Kumar Singh.
 ├── README.md               <-- The main citation-magnet (Template below)
 ├── CONTRIBUTING.md         <-- Guidelines forcing authors to cite you when adding papers
 ├── LICENSE                 <-- MIT License (encourages reuse)
